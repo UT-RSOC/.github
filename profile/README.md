@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Placeholder for UT Austin Logo -->
-![UT Austin Logo](placeholder-ut-logo.png)
+<img width="800" height="400" alt="ut-rsoc" src="https://github.com/user-attachments/assets/e6c04e65-6dfe-4cc7-93f3-a64cfb911cf3" />
 
 # UT-RSOC Student Researcher Program
 
@@ -32,8 +31,7 @@ Our program offers students the unique opportunity to:
 
 Whether you're just starting your cybersecurity journey or looking to deepen your expertise, the UT-RSOC Student Researcher Program provides a supportive environment to learn, grow, and make an impact in the field of cybersecurity.
 
-<!-- Placeholder for Program Activities Image -->
-![Program Activities](placeholder-activities.png)
+<img width="335" height="227" alt="3" src="https://github.com/user-attachments/assets/a289cdd4-7b36-43c1-aef3-f1f18bb9a4b1" /><img width="340" height="227" alt="4" src="https://github.com/user-attachments/assets/c82c38a4-5b1a-46a3-84f9-6b26be269821" /><img width="335" height="227" alt="5" src="https://github.com/user-attachments/assets/3cf2a9f7-25c7-4a6a-8fed-051e1519baed" />
 
 ---
 
@@ -70,8 +68,8 @@ Ready to become part of the UT-RSOC team? Follow these steps:
    - Get matched with a mentor
    - Start contributing to the team
 
-<!-- Placeholder for Getting Started Diagram -->
-![Getting Started Guide](placeholder-getting-started.png)
+<!-- Placeholder for Footer/Banner Image -->
+![Program Pathway](placeholder-footer.png)
 
 ---
 
@@ -124,8 +122,7 @@ Feel free to reach out to any team member with questions or for guidance!
 - Work toward industry certifications
 - Attend cybersecurity conferences and competitions
 
-<!-- Placeholder for Activities Showcase -->
-![What We Do](placeholder-what-we-do.png)
+<img width="1382" height="993" alt="image" src="https://github.com/user-attachments/assets/4c67ade0-db21-4683-81e9-838e184fc8bd" />
 
 ---
 
@@ -191,8 +188,7 @@ Don't miss this opportunity to be part of one of UT Austin's premier cybersecuri
 
 <div align="center">
 
-<!-- Placeholder for Footer/Banner Image -->
-![UT RSOC](placeholder-footer.png)
+<img width="1440" height="500" alt="image" src="https://github.com/user-attachments/assets/b67c2690-a469-4597-be1d-ce68270fe2a7" />
 
 **© 2024 UT-RSOC Student Researcher Program**  
 *The University of Texas at Austin*
