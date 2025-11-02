@@ -32,7 +32,7 @@ Our program offers students the unique opportunity to:
 Whether you're just starting your cybersecurity journey or looking to deepen your expertise, the UT-RSOC Student Researcher Program provides a supportive environment to learn, grow, and make an impact in the field of cybersecurity.
 
 <div align = "center">
-<img width="300" height="227" alt="3" src="https://github.com/user-attachments/assets/a289cdd4-7b36-43c1-aef3-f1f18bb9a4b1" /><img width="300" height="227" alt="4" src="https://github.com/user-attachments/assets/c82c38a4-5b1a-46a3-84f9-6b26be269821" /><img width="300" height="227" alt="5" src="https://github.com/user-attachments/assets/3cf2a9f7-25c7-4a6a-8fed-051e1519baed" />
+<img width="280" height="227" alt="3" src="https://github.com/user-attachments/assets/a289cdd4-7b36-43c1-aef3-f1f18bb9a4b1" /><img width="280" height="227" alt="4" src="https://github.com/user-attachments/assets/c82c38a4-5b1a-46a3-84f9-6b26be269821" /><img width="280" height="227" alt="5" src="https://github.com/user-attachments/assets/3cf2a9f7-25c7-4a6a-8fed-051e1519baed" />
 </div>
 
 ---
