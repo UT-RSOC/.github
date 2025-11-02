@@ -192,7 +192,7 @@ Don't miss this opportunity to be part of one of UT Austin's premier cybersecuri
 
 <img width="1440" height="500" alt="image" src="https://github.com/user-attachments/assets/b67c2690-a469-4597-be1d-ce68270fe2a7" />
 
-**© 2024 UT-RSOC Student Researcher Program**  
+**2024 UT-RSOC Student Researcher Program**  
 *The University of Texas at Austin*
 
 *Hook 'em Horns! 🤘*
