@@ -2,7 +2,7 @@
 
 <img width="800" height="400" alt="ut-rsoc" src="https://github.com/user-attachments/assets/e6c04e65-6dfe-4cc7-93f3-a64cfb911cf3" />
 
-# UT-RSOC Student Researcher Program
+# UT-RSOC SOC Analysts Program
 
 **The University of Texas at Austin's Regional Security Operations Center**
 
@@ -20,7 +20,7 @@
 
 ## 🎓 About the Program
 
-Welcome to the **UT-RSOC Student Researcher Program**! We are a dynamic cybersecurity student organization at The University of Texas at Austin, dedicated to providing hands-on experience in security operations, threat analysis, and incident response.
+Welcome to the **UT-RSOC SOC Analysts Program**! We are a dynamic cybersecurity student organization at The University of Texas at Austin, dedicated to providing hands-on experience in security operations, threat analysis, and incident response.
 
 Our program offers students the unique opportunity to:
 
@@ -30,7 +30,7 @@ Our program offers students the unique opportunity to:
 - 📚 **Access Exclusive Resources** - Get hands-on training and mentorship
 - 🏆 **Build Your Resume** - Earn certifications and demonstrate practical skills
 
-Whether you're just starting your cybersecurity journey or looking to deepen your expertise, the UT-RSOC Student Researcher Program provides a supportive environment to learn, grow, and make an impact in the field of cybersecurity.
+Whether you're just starting your cybersecurity journey or looking to deepen your expertise, the UT-RSOC SOC Analysts Program provides a supportive environment to learn, grow, and make an impact in the field of cybersecurity.
 
 **Learn more at our website: [https://rsoc.utexas.edu/](https://rsoc.utexas.edu/)**
 
@@ -51,7 +51,7 @@ Ready to become part of the UT-RSOC team? Follow these steps:
    Click here to join: **[https://discord.gg/E6FnWqCW](https://discord.gg/E6FnWqCW)**
    
    Our Discord server is the hub of our community where you can:
-   - Connect with fellow student researchers
+   - Connect with fellow SOC Analystss
    - Get real-time support and guidance
    - Stay updated on program activities and opportunities
    - Participate in discussions and knowledge sharing
@@ -196,7 +196,7 @@ Don't miss this opportunity to be part of one of UT Austin's premier cybersecuri
 
 <img width="1440" height="500" alt="image" src="https://github.com/user-attachments/assets/b67c2690-a469-4597-be1d-ce68270fe2a7" />
 
-**2024 UT-RSOC Student Researcher Program**  
+**2024 UT-RSOC SOC Analysts Program**  
 *The University of Texas at Austin*
 
 *Hook 'em Horns! 🤘*
